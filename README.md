@@ -7,6 +7,4 @@ cs229 final project: sentiment analysis of restaurant reviews
 - LSTM+Attention: `yelp_lstm_att.ipynb`
 - Results: `img.zip`
 - 
-### EDA
-![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8ztxpun85j30hs0bst8v.jpg)
-![](./img/freq_words.png)
+
