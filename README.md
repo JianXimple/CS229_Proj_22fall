@@ -8,5 +8,5 @@ cs229 final project: sentiment analysis of restaurant reviews
 - Results: `img.zip`
 - 
 ### EDA
-![](./img/class_distribution.png)
+![](https://tva1.sinaimg.cn/large/008vxvgGgy1h8ztxpun85j30hs0bst8v.jpg)
 ![](./img/freq_words.png)
